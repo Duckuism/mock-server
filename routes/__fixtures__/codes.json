@@ -1,0 +1,300 @@
+{
+  "requestUrl": "/stay/v1/lodging/codes",
+  "totalCount": 0,
+  "categories": [
+    {
+      "code": "ALL",
+      "label": "전체"
+    },
+    {
+      "code": "PENSIONS",
+      "label": "펜션"
+    },
+    {
+      "code": "POOL_VILLA",
+      "label": "풀빌라"
+    },
+    {
+      "code": "CAMPING_SITES",
+      "label": "캠핑"
+    },
+    {
+      "code": "GUEST_HOUSES",
+      "label": "게하"
+    },
+    {
+      "code": "BNB",
+      "label": "비앤비"
+    }
+  ],
+  "facilities": [
+    {
+      "code": "GOLF_FIELD",
+      "label": "골프장"
+    },
+    {
+      "code": "PUBLIC_SHOWER",
+      "label": "공용샤워실"
+    },
+    {
+      "code": "PUBLIC_SPA",
+      "label": "공용스파"
+    },
+    {
+      "code": "PUBLIC_KITCHEN",
+      "label": "공용주방"
+    },
+    {
+      "code": "PUBLIC_TOILET",
+      "label": "공용화장실"
+    },
+    {
+      "code": "KARAOKE",
+      "label": "노래방"
+    },
+    {
+      "code": "BASKETBALL_FIELD",
+      "label": "농구장"
+    },
+    {
+      "code": "RESTAURANT",
+      "label": "레스토랑"
+    },
+    {
+      "code": "ROOFTOPS",
+      "label": "루프탑"
+    },
+    {
+      "code": "CONVENIENCE_STORE",
+      "label": "매점/편의점"
+    },
+    {
+      "code": "BARBEQUE_GRILLS",
+      "label": "바베큐장"
+    },
+    {
+      "code": "BUSINESS_CENTER",
+      "label": "비즈니스센터"
+    },
+    {
+      "code": "SAUNA",
+      "label": "사우나"
+    },
+    {
+      "code": "SEMINAR_ROOMS",
+      "label": "세미나실"
+    },
+    {
+      "code": "SWIMMING_POOL",
+      "label": "수영장"
+    },
+    {
+      "code": "SPA",
+      "label": "스파/월풀"
+    },
+    {
+      "code": "BALLROOMS",
+      "label": "연회장"
+    },
+    {
+      "code": "HOT_SPRING",
+      "label": "온천"
+    },
+    {
+      "code": "WATER_SLIDE",
+      "label": "워터슬라이드"
+    },
+    {
+      "code": "WATERPARK",
+      "label": "워터파크"
+    },
+    {
+      "code": "KINDER_ATTRACTIONS",
+      "label": "유아시설"
+    },
+    {
+      "code": "JOKGU_JANG",
+      "label": "족구장"
+    },
+    {
+      "code": "JJIMJIL_BANG",
+      "label": "찜질방"
+    },
+    {
+      "code": "FOOTBALL_FUTSAL_FIELD",
+      "label": "축구/풋살장"
+    },
+    {
+      "code": "CAFE",
+      "label": "카페"
+    },
+    {
+      "code": "KIDS_PLAYROOM",
+      "label": "키즈플레이룸"
+    },
+    {
+      "code": "TABLE_TENNIS",
+      "label": "탁구장"
+    },
+    {
+      "code": "FITNESS",
+      "label": "피트니스"
+    }
+  ],
+  "services": [
+    {
+      "code": "ALLDAY_SERVICE",
+      "label": "24시간 프론트"
+    },
+    {
+      "code": "PRIVATE_LOCKER",
+      "label": "개인사물함"
+    },
+    {
+      "code": "SMOKING_ALLOWED",
+      "label": "객실내흡연"
+    },
+    {
+      "code": "NO_SMOKING",
+      "label": "금연"
+    },
+    {
+      "code": "BASIC_SPICE",
+      "label": "기본양념"
+    },
+    {
+      "code": "ROOM_SERVICE",
+      "label": "룸서비스"
+    },
+    {
+      "code": "MASSAGE",
+      "label": "마사지"
+    },
+    {
+      "code": "BAR",
+      "label": "바/라운지"
+    },
+    {
+      "code": "VALET_PARKING",
+      "label": "발렛파킹"
+    },
+    {
+      "code": "BOARD_GAMES",
+      "label": "보드게임"
+    },
+    {
+      "code": "EMERGENCY_PHARMS",
+      "label": "상비약"
+    },
+    {
+      "code": "MOVIES",
+      "label": "영화관람"
+    },
+    {
+      "code": "BIKE_RENTAL",
+      "label": "자전거대여"
+    },
+    {
+      "code": "BARRIER_FREE",
+      "label": "장애인편의시설"
+    },
+    {
+      "code": "BAGGAGE_KEEPING",
+      "label": "짐보관"
+    },
+    {
+      "code": "COOKING_ALLOWED",
+      "label": "취사가능"
+    },
+    {
+      "code": "CAMP_FIRES",
+      "label": "캠프파이어"
+    },
+    {
+      "code": "EVENT_AND_PARTIES",
+      "label": "프로포즈/파티/이벤트"
+    },
+    {
+      "code": "PRINTER",
+      "label": "프린터 사용"
+    },
+    {
+      "code": "WIFI",
+      "label": "WIFI"
+    },
+    {
+      "code": "AIRPORT_SHUTTLE",
+      "label": "공항 셔틀"
+    },
+    {
+      "code": "FREE_PARKING",
+      "label": "무료주차"
+    },
+    {
+      "code": "PETS_ALLOWED",
+      "label": "반려동물 동반가능"
+    },
+    {
+      "code": "SHUTTLES",
+      "label": "셔틀버스"
+    },
+    {
+      "code": "BREAKFAST",
+      "label": "조식서비스"
+    },
+    {
+      "code": "PARKING_AVAILABLE",
+      "label": "주차가능"
+    },
+    {
+      "code": "PICK_UP",
+      "label": "픽업"
+    }
+  ],
+  "attractions": [
+    {
+      "code": "RIVER_LAKE",
+      "label": "강,호수"
+    },
+    {
+      "code": "STREAMS",
+      "label": "계곡"
+    },
+    {
+      "code": "COUNTRY_CLUB",
+      "label": "골프장"
+    },
+    {
+      "code": "PARK",
+      "label": "공원"
+    },
+    {
+      "code": "FISHING",
+      "label": "낚시장"
+    },
+    {
+      "code": "UNIVERSITY",
+      "label": "대학교"
+    },
+    {
+      "code": "NATURAL_FORESTS",
+      "label": "수목원,휴양림"
+    },
+    {
+      "code": "WATER_ACTIVITIES",
+      "label": "수상레져"
+    },
+    {
+      "code": "SKI_RESORTS",
+      "label": "스키장"
+    },
+    {
+      "code": "SPORTS_GROUND",
+      "label": "스포츠 경기장"
+    },
+    {
+      "code": "BEACH",
+      "label": "해수욕장"
+    }
+  ]
+}

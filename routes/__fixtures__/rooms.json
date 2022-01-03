@@ -1,0 +1,158 @@
+{
+  "requestUrl": "string",
+  "totalCount": 0,
+  "gdsPropertyId": "24105",
+  "nights": 2,
+  "price": {
+    "salePrice": 135000,
+    "basePrice": 150000,
+    "discountRate": 10,
+    "priceForOne": 22500
+  },
+  "refundPolicy": "string",
+  "rooms": [
+    {
+      "id": 91896,
+      "name": "아담",
+      "capacity": "기준 2명 / 최대 4명",
+      "freeCancelDate": "2020년 8월 26일",
+      "desc": "작은 객실입니다.",
+      "composition": {
+        "beds": "더블베드 2, 킹베드 1",
+        "layout": "거실 1, 주방 1, 침실 3, 화장실 2",
+        "size": "156m²"
+      },
+      "tags": {
+        "amenities": [
+          "가스레인지/인덕션",
+          "미니바",
+          "벽난로",
+          "에어컨",
+          "욕실용품",
+          "커피포트"
+        ],
+        "policies": ["취사불가", "흡연가능"],
+        "types": ["원룸형"],
+        "views": ["전망 없음"]
+      },
+      "props": {
+        "amenities": [
+          "가스레인지/인덕션",
+          "미니바",
+          "벽난로",
+          "에어컨",
+          "욕실용품",
+          "커피포트"
+        ],
+        "policies": ["취사불가", "흡연가능"],
+        "types": ["원룸형"],
+        "views": ["전망 없음"]
+      },
+      "images": [
+        {
+          "source": "야놀자",
+          "order": 0,
+          "url": "https://d1nygxcr7r5282.cloudfront.net/mrt-images-dev/2020/06/22/l7bp/KBm36mWTTL.jpg"
+        }
+      ],
+      "items": [
+        {
+          "package": true,
+          "rateplanId": "24105",
+          "packageDesc": "조식포함 패키지입니다.",
+          "supplier": "티포트",
+          "freeCancelable": "무료취소(~8.26)",
+          "name": "강아지",
+          "rateplanName": "+조식포함",
+          "couponLabel": "10,000원 쿠폰",
+          "applyPublicPromo": true,
+          "price": {
+            "salePrice": 135000,
+            "basePrice": 150000,
+            "discountRate": 10,
+            "priceForOne": 22500
+          },
+          "refundPolicies": [
+            {
+              "until": "2020-08-26",
+              "amount": 80000,
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "mismatched": [
+    {
+      "id": 91896,
+      "name": "아담",
+      "capacity": "기준 2명 / 최대 4명",
+      "freeCancelDate": "2020년 8월 26일",
+      "desc": "작은 객실입니다.",
+      "composition": {
+        "beds": "더블베드 2, 킹베드 1",
+        "layout": "거실 1, 주방 1, 침실 3, 화장실 2",
+        "size": "156m²"
+      },
+      "tags": {
+        "amenities": [
+          "가스레인지/인덕션",
+          "미니바",
+          "벽난로",
+          "에어컨",
+          "욕실용품",
+          "커피포트"
+        ],
+        "policies": ["취사불가", "흡연가능"],
+        "types": ["원룸형"],
+        "views": ["전망 없음"]
+      },
+      "props": {
+        "amenities": [
+          "가스레인지/인덕션",
+          "미니바",
+          "벽난로",
+          "에어컨",
+          "욕실용품",
+          "커피포트"
+        ],
+        "policies": ["취사불가", "흡연가능"],
+        "types": ["원룸형"],
+        "views": ["전망 없음"]
+      },
+      "images": [
+        {
+          "source": "야놀자",
+          "order": 0,
+          "url": "https://d1nygxcr7r5282.cloudfront.net/mrt-images-dev/2020/06/22/l7bp/KBm36mWTTL.jpg"
+        }
+      ],
+      "items": [
+        {
+          "package": true,
+          "rateplanId": "24105",
+          "packageDesc": "조식포함 패키지입니다.",
+          "supplier": "티포트",
+          "freeCancelable": "무료취소(~8.26)",
+          "name": "강아지",
+          "rateplanName": "+조식포함",
+          "couponLabel": "10,000원 쿠폰",
+          "price": {
+            "salePrice": 135000,
+            "basePrice": 150000,
+            "discountRate": 10,
+            "priceForOne": 22500
+          },
+          "refundPolicies": [
+            {
+              "until": "2020-08-26",
+              "amount": 80000,
+              "percentage": 100
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

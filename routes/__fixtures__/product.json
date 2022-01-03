@@ -1,0 +1,219 @@
+{
+  "data": {
+    "banners": [],
+    "bestPriceGuarantee": true,
+    "cancelPolicies": [
+      "체크인 30일전 취소 및 노쇼 환불불가",
+      "체크인 29 ~ 15일전 취소 30.0% 공제",
+      "체크인 14 ~ 4일전 취소 50.0% 공제",
+      "체크인 3일 ~ 당일 취소 전액환불",
+      "숙소 이용 후, 숙소의 시설 또는 서비스를 이유로 보상을 요구할 수 없습니다. 숙소 이용 중 발생한 상해나 질병 또는 재산상의 손실에 대해 마이리얼트립이 보상 의무를 지지 않습니다. 고객이 예약한 객실이 아닌 다른 객실이 숙소에 의해 제공된 경우, 고객이 숙소에 의해 제공된 객실을 이용하거나 숙소의 기타 보상 안을 수용한 경우, 마이리얼트립은 별도의 보상 의무를 지지 않습니다."
+    ],
+    "category": "LODGING",
+    "cities": [
+      {
+        "description": "세상의 모든 사랑이 시작되는 곳",
+        "id": 13,
+        "keyName": "Paris",
+        "name": "파리"
+      }
+    ],
+    "descriptions": {
+      "blocks": [
+        {
+          "data": {
+            "file": {
+              "url": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/7080_medium_1524642402.jpg"
+            },
+            "stretched": false,
+            "withBackground": false,
+            "withBorer": false
+          },
+          "type": "image"
+        },
+        {
+          "data": {
+            "file": {
+              "url": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/3862_medium_1522654204.jpg"
+            },
+            "stretched": false,
+            "withBackground": false,
+            "withBorer": false
+          },
+          "type": "image"
+        },
+        {
+          "data": {
+            "file": {
+              "url": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/3863_medium_1522654209.jpg"
+            },
+            "stretched": false,
+            "withBackground": false,
+            "withBorer": false
+          },
+          "type": "image"
+        },
+        {
+          "data": {
+            "file": {
+              "url": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/5534_medium_1522654217.jpg"
+            },
+            "stretched": false,
+            "withBackground": false,
+            "withBorer": false
+          },
+          "type": "image"
+        },
+        {
+          "data": {
+            "file": {
+              "url": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/3864_medium_1522654225.jpg"
+            },
+            "stretched": false,
+            "withBackground": false,
+            "withBorer": false
+          },
+          "type": "image"
+        },
+        {
+          "data": {
+            "file": {
+              "url": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/3865_medium_1522654234.jpg"
+            },
+            "stretched": false,
+            "withBackground": false,
+            "withBorer": false
+          },
+          "type": "image"
+        },
+        {
+          "data": {
+            "file": {
+              "url": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/8529_medium_1522654238.jpg"
+            },
+            "stretched": false,
+            "withBackground": false,
+            "withBorer": false
+          },
+          "type": "image"
+        }
+      ],
+      "time": null,
+      "version": "2.8.1"
+    },
+    "discountRate": 0,
+    "featuredDescriptions": {
+      "descriptions": "",
+      "imageUrl": "https://d32w679339tzui.cloudfront.net/offer_descriptive_images/29578/7080_medium_1524642402.jpg"
+    },
+    "id": "BNB1",
+    "imageUrls": [
+      "https://d1nygxcr7r5282.cloudfront.net/mrt-images-dev/2020/06/18/14Wn/p4IagO3HPe.jpg",
+      "https://d1nygxcr7r5282.cloudfront.net/mrt-images-dev/2020/06/18/14Wn/p4IagO3HPe.jpg"
+    ],
+    "immediateConfirm": false,
+    "immediateReservation": true,
+    "isWished": false,
+    "location": {
+      "address": null,
+      "description": null,
+      "imageUrl": null,
+      "latitude": 35.35674009598924,
+      "longitude": 129.2015956891371,
+      "title": null
+    },
+    "managerComments": [],
+    "meta": {
+      "amenities": [
+        "TOILET",
+        "HAIR_DRYER",
+        "KITCHEN",
+        "WASHING_MACHINE",
+        "TOWEL",
+        "SOAP",
+        "SHAMPOO",
+        "PARKING"
+      ],
+      "checkInTime": "12:00:00",
+      "checkInTimeText": "0:00 PM",
+      "checkOutTime": "10:00:00",
+      "checkOutTimeText": "10:00 AM",
+      "childAvailable": false,
+      "freeServices": ["KEEP_LUGGAGE"],
+      "maxChildAge": 9,
+      "mealTag": null,
+      "meals": [],
+      "rules": []
+    },
+    "notice": {
+      "content": null,
+      "endAt": null,
+      "startAt": null,
+      "title": null
+    },
+    "partner": {
+      "email": "User-629587@dummy.mrt",
+      "id": 7664,
+      "name": "User-629587",
+      "phoneNumber": "UP9UjFYFHQKMiSSNFyaeag==\\\\n",
+      "profileImageUrl": null
+    },
+    "reviewDetail": {
+      "averageScore": 2.75,
+      "averageScoreDetails": [
+        {
+          "key": "CLEANLINESS",
+          "name": "청결도",
+          "score": 2.75
+        },
+        {
+          "key": "LOCATION",
+          "name": "위치",
+          "score": 2.75
+        },
+        {
+          "key": "FACILITY",
+          "name": "시설",
+          "score": 2.75
+        },
+        {
+          "key": "KINDNESS",
+          "name": "직원 친절도",
+          "score": 2.75
+        }
+      ],
+      "featuredReview": {
+        "comment": "샤워시설 이용시 물이 바닥에 튀지않게 조심하세요",
+        "createdAt": "2018-08-31T20:58:44Z",
+        "id": 1773,
+        "imageUrls": [],
+        "optionTitle": "4인실 남성도미토리",
+        "score": 4,
+        "travelConcept": {
+          "ageGroup": 20,
+          "purpose": "ALONE"
+        },
+        "username": "강**"
+      },
+      "reviewCount": 8,
+      "reviewScoreCounts": {
+        "1": 2,
+        "2": 3,
+        "3": 0,
+        "4": 1,
+        "5": 2
+      }
+    },
+    "status": "ONSALE",
+    "subtitle": null,
+    "themes": [],
+    "title": "[한인민박] 파리 퐁네프민박 ",
+    "type": "ACCOMMODATION"
+  },
+  "meta": {},
+  "result": {
+    "code": "success",
+    "message": "SUCCESS",
+    "status": 200
+  }
+}
